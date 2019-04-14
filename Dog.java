@@ -8,9 +8,9 @@ public class Dog {
 	double weight;
 	String newName;
 	
-	public Dog (String name, String breed) {
+	public Dog (String name, String breed, double weight) {
 		// constructor
-		weight = 125.0;
+		this.weight = 125.0;
 		age = 0;
 	}
 	
