@@ -60,8 +60,8 @@ public class Dog {
 		
 		//execute code
 		
-		Dog myDog = new Dog("puppy","mixed");
-		myDog.newName = "Pluto";
+		Dog myDog = new Dog("doggy","pink");
+		myDog.newName = "Pinky";
 		
 	}
 }
