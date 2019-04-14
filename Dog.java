@@ -1,7 +1,7 @@
 
 public class Dog {
 	
-	// New comment from Natalie
+	// New comment from Natalie. We will edit same line and resolve conflict
 	String name;
 	String breed;
 	int age;
