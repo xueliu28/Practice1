@@ -1,6 +1,7 @@
 
 public class Dog {
 	
+	// New comment from Natalie
 	String name;
 	String breed;
 	int age;
